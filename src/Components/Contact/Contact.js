@@ -2,7 +2,7 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Contact.css';
-import '../../Shared/js/change'
+
 
 function Contact() {
     return (
@@ -61,7 +61,7 @@ function Contact() {
                                 </div>
                                 <p></p>
 
-                                <div class="text-center"><button type="submit" class="btn btn-outline-primary" onclick="change()" id="sendmsg">Send Message</button></div>
+                                <div class="text-center"><button type="submit" class="btn btn-outline-primary" id="sendmsg">Send Message</button></div>
                             </form>
 
                         </div>

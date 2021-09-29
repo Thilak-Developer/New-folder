@@ -11,8 +11,18 @@ import Testimonial from './Components/Testimonial/Testimonial';
 import Contact from './Components/Contact/Contact';
 import Footer from './Components/Footer/Footer';
 import './Shared/js/main';
-import './Shared/js/change';
+// import './Shared/js/change';
 import Hero from './Components/Hero/Hero';
+
+
+// function change()
+// {
+//     var btn = document.getElementById("sendmsg");
+//     if(btn.innerText==="Send Message"){
+//        btn.innerText="Sent Successfully";
+//        btn.className="btn btn-success";
+//       }
+// }
 // Import Swiper styles
 
 ReactDOM.render(
